@@ -1,0 +1,10 @@
+scripts:
+  test:
+    repo: "https://github.com/x213212/minitestframework"
+    branch: "master"
+  test2:
+    repo: "https://github.com/x213212/minitestframework"
+    branch: "master"
+  test3:
+    repo: "https://github.com/x213212/minitestframework"
+    branch: "master"
