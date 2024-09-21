@@ -1,1 +1,0 @@
-/app/target/debug/rsbuild: /app/src/buildscript/mod.rs /app/src/buildscript/test/mod.rs /app/src/buildscript/test2/mod.rs /app/src/buildscript/test3/mod.rs /app/src/main.rs /app/src/utils/common.rs /app/src/utils/mod.rs
